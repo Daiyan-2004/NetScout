@@ -120,14 +120,6 @@ lib/
 - [ ] Location-based recommendations
 - [ ] Admin platform for managing campus data
 
-## 📸 Screenshots
-
-_Coming soon._
-
-## 👤 Author
-
-**Daiyan** · [@Daiyan-2004](https://github.com/Daiyan-2004)
-
 ## 📄 License
 
 No license has been chosen yet. All rights reserved until one is added.
