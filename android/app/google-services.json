@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123142457028",
+    "project_id": "net-scout",
+    "storage_bucket": "net-scout.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123142457028:android:bc30f9d536c5069e862b91",
+        "android_client_info": {
+          "package_name": "com.example.net_scout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA7NUY6t5ev4iMieYyW3Tx1N3QWB3de5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
